@@ -16,7 +16,7 @@ This notebook includes:
 📂 DataScienceEcosystem
  ├── DataScienceEcosystem.ipynb  # Jupyter Notebook with code and markdown
  ├── README.md                    # Project Documentation
- ├── images/                       # Screenshots for submission
+ ├── DataScienceEcosystem.zip/                       # Screenshots for submission
  │   ├── 1-notebook.png
  │   ├── 2-title.png
  │   ├── 3-intro.png
